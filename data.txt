@@ -1,0 +1,23 @@
+HR
+3
+Ivan | Nikolaev | 21.09.1980 | Moscow
+Igor | Gridin | 03.08/1978 | Polotsk
+Alex | Tito | 01.12.1984 | Polotsk
+
+IT
+4
+Ivan | Nikolaev | 21.09.1980 | Moscow
+Igor | Gridin | 03.08/1978 | Polotsk
+Alex | Tito | 01.12.1984 | Polotsk
+Nadya | Ivanova | 25.07. 1995 | Vitebsk
+
+Finance
+2
+Alex | Tito | 01.12.1984 | Polotsk
+Nadya | Ivanova | 25.07. 1995 | Vitebsk
+
+Tech
+3
+Igor | Gridin | 03.08/1978 | Polotsk
+Alex | Tito | 01.12.1984 | Polotsk
+Nadya | Ivanova | 25.07. 1995 | Vitebsk
